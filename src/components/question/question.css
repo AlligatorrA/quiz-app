@@ -18,3 +18,15 @@
     justify-content: space-around;
     align-items: center;
 }
+
+.correct {
+    color: green;
+}
+
+.inCorrect {
+    color: red;
+}
+
+.mlauto {
+    margin-left: auto;
+}
